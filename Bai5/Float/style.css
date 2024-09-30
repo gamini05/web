@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0efef;
+  height: 100vh;
+}
+
+.header {
+  background-color: #f0efef;
+  text-align: center;
+  padding: 20px;
+  font-size: 36px; /* Kích thước chữ cho header */
+  font-weight: bold; /* Đậm chữ */
+}
+
+.footer {
+  background-color: #f0efef;
+  text-align: center;
+  padding: 20px;
+  font-size: 15px; /* Kích thước chữ cho footer, tùy chỉnh nếu cần */
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Chia đều 3 cột */
+  height: calc(100vh - 160px);
+}
+
+.column {
+  padding: 20px;
+  text-align: center;
+}
+
+.column1 {
+  background-color: #a3a3a3;
+}
+
+.column2 {
+  background-color: #b8b6b6;
+}
+
+.column3 {
+  background-color: #d1d1d1;
+}
