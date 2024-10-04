@@ -6,4 +6,6 @@ Mã SV:230366
 <h2>bài tập 4</h2>
 
 ![image](https://github.com/user-attachments/assets/ab6e6fad-9eed-44a0-b804-d99014d88f75)
+<h2>bai7</h2>
 
+![image](https://github.com/user-attachments/assets/6fcc402f-02e0-4218-b2c6-c7f0a7cd605d)
