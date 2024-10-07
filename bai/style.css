@@ -1,0 +1,31 @@
+/* Reset */
+body {
+  margin: 0px;
+  padding: 0px;
+}
+/* End Reset */
+
+/* Header bar */
+.header_bar {
+  height: 30px;
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
+}
+.container {
+  width: 1000px;
+  height: 100%;
+  margin: 0 auto;
+  background: #fff;
+}
+.container table {
+  width: 100%;
+}
+
+.container table tr td {
+  width: 33%;
+  white-space: nowrap;
+}
+.container img {
+  height: 16px;
+}
